@@ -55,5 +55,12 @@
 
 ## 🖼️ Screenshots & Demo
 
-_Add images, GIFs, or demo videos here_
+### Analysis
+![Analysis](images/analysis.png)
+
+### Detection
+![Detection Flow](images/analysis2.png)
+
+### Bait Email Example
+![Bait Email](images/scam.png)
 
